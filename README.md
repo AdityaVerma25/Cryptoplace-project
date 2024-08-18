@@ -1,15 +1,15 @@
-Cryptoplace
+# Cryptoplace
 Cryptoplace is a React-based application designed to display the price fluctuations of various cryptocurrencies over the past 24 hours. It provides users with insights into the high and low values for each crypto coin, helping them track and analyze price movements effectively.
 
-Feature
-# 24-Hour Price Fluctuation: View the price changes of different cryptocurrencies over the past 24 hours.
-# 24-Hour High and Low Values: See the highest and lowest prices for each cryptocurrency in the last 24 hours. 
+# Feature
+ 24-Hour Price Fluctuation: View the price changes of different cryptocurrencies over the past 24 hours.
+ 24-Hour High and Low Values: See the highest and lowest prices for each cryptocurrency in the last 24 hours. 
 
-Techologies Used
-# ReactJS: A JavaScript library for building user interfaces.
-# CoinGecko API: Provides comprehensive and accurate cryptocurrency data.
+# Techologies Used
+ReactJS: A JavaScript library for building user interfaces.
+CoinGecko API: Provides comprehensive and accurate cryptocurrency data.
 
-Installation
+# Installation
 To set up the Cryptoplace project locally, follow these steps:
 
 1. clone the repository:
